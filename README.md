@@ -1,7 +1,7 @@
 Hi 👋 My name is Furkan Topaloğlu
 =================================
 
-Full-Stack Developer
+Software Engineer
 --------------------
 
 * 🌍  I'm based in Istanbul
